@@ -1,63 +1,63 @@
 {
-  "last_updated": "2026-03-06 12:30:06",
+  "last_updated": "2026-03-06 14:49:03",
   "datasets": {
     "06-03-2026": {
       "production_summary": [
         {
           "Flavor": "Strawberry",
-          "Total Qty": 122
+          "Total Qty": 103
         },
         {
           "Flavor": "Kiwi",
-          "Total Qty": 122
+          "Total Qty": 103
         },
         {
           "Flavor": "Lychee",
-          "Total Qty": 88
+          "Total Qty": 64
         },
         {
           "Flavor": "Mango",
-          "Total Qty": 122
+          "Total Qty": 103
         },
         {
           "Flavor": "Blueberry",
-          "Total Qty": 68
+          "Total Qty": 40
         },
         {
           "Flavor": "Peach",
-          "Total Qty": 72
+          "Total Qty": 54
         },
         {
           "Flavor": "Blueberry Cheese",
-          "Total Qty": 195
+          "Total Qty": 118
         },
         {
           "Flavor": "Lotus Biscoff Cheese",
-          "Total Qty": 166
+          "Total Qty": 101
         },
         {
           "Flavor": "Passion Fruit",
-          "Total Qty": 40
+          "Total Qty": 32
         },
         {
           "Flavor": "Lemon Cheese",
-          "Total Qty": 40
+          "Total Qty": 32
         },
         {
           "Flavor": "Matcha",
-          "Total Qty": 72
+          "Total Qty": 40
         },
         {
           "Flavor": "Earl Grey",
-          "Total Qty": 72
+          "Total Qty": 40
         },
         {
           "Flavor": "Strawberry Cheesecake",
-          "Total Qty": 40
+          "Total Qty": 32
         },
         {
           "Flavor": "Blueberry Almond",
-          "Total Qty": 40
+          "Total Qty": 32
         },
         {
           "Flavor": "Chocolate Hazelnut",
@@ -69,7 +69,7 @@
         },
         {
           "Flavor": "Musang King Tart (3pcs)",
-          "Total Qty": 9
+          "Total Qty": 8
         },
         {
           "Flavor": "Mixed Berries Almond Tart 9\" Ring / Candle & Knife",
@@ -79,15 +79,15 @@
       "total_summary": [
         {
           "Category": "Total Custard Tarts",
-          "Total": 594.0
+          "Total": 467.0
         },
         {
           "Category": "Cheese (Blueberry & Lotus)",
-          "Total": 361.0
+          "Total": 219.0
         },
         {
           "Category": "Cheese (Lemon & Strawberry)",
-          "Total": 80.0
+          "Total": 64.0
         },
         {
           "Category": "Cheese (Apple Crumble)",
@@ -95,11 +95,11 @@
         },
         {
           "Category": "Total Cheese Tarts",
-          "Total": 441.0
+          "Total": 283.0
         },
         {
           "Category": "Total No. of Premium",
-          "Total": 352.0
+          "Total": 256.0
         },
         {
           "Category": "Total No. of Christmas",
@@ -107,17 +107,17 @@
         },
         {
           "Category": "Total Tart Shells Required",
-          "Total": 1307.0
+          "Total": 942.0
         },
         {
           "Category": "Approx Butter Required (kg)",
-          "Total": 18.671
+          "Total": 13.457
         }
       ],
       "box_summary": [
         {
           "Item Name": "Assorted Tarts - 25pcs",
-          "Total Boxes": 2
+          "Total Boxes": 3
         },
         {
           "Item Name": "Assorted Tarts - 36pcs",
@@ -125,31 +125,31 @@
         },
         {
           "Item Name": "Cheese Tarts - 16pcs",
-          "Total Boxes": 6
-        },
-        {
-          "Item Name": "Cheese Tarts - 25pcs",
           "Total Boxes": 4
         },
         {
-          "Item Name": "Cheese Tarts - 25pcs / Blueberry Cheese only",
+          "Item Name": "Cheese Tarts - 16pcs / Blueberry Cheese only",
+          "Total Boxes": 1
+        },
+        {
+          "Item Name": "Cheese Tarts - 25pcs",
           "Total Boxes": 1
         },
         {
           "Item Name": "Cheese Tarts - 36pcs",
-          "Total Boxes": 2
+          "Total Boxes": 1
         },
         {
           "Item Name": "Fruit Tarts - 16pcs",
-          "Total Boxes": 5
+          "Total Boxes": 6
         },
         {
           "Item Name": "Fruit Tarts - 25pcs",
-          "Total Boxes": 4
+          "Total Boxes": 2
         },
         {
           "Item Name": "Fruit Tarts - 36pcs",
-          "Total Boxes": 8
+          "Total Boxes": 5
         },
         {
           "Item Name": "Chocolate Bliss",
@@ -157,19 +157,15 @@
         },
         {
           "Item Name": "Sweet Berry Duo",
-          "Total Boxes": 5
+          "Total Boxes": 4
         },
         {
           "Item Name": "The Tropical",
-          "Total Boxes": 5
+          "Total Boxes": 4
         },
         {
           "Item Name": "Tea par tea",
-          "Total Boxes": 9
-        },
-        {
-          "Item Name": "Candles - Silver (6pcs)",
-          "Total Boxes": 1
+          "Total Boxes": 5
         },
         {
           "Item Name": "Chinese New Year Tarts - 25pcs",
@@ -181,24 +177,16 @@
         },
         {
           "Item Name": "Musang King Tart (3pcs)",
-          "Total Boxes": 9
+          "Total Boxes": 8
         },
         {
           "Item Name": "ALL",
-          "Total Boxes": 71
+          "Total Boxes": 54
         }
       ],
       "party_summary": [
         {
-          "Item Name": "Grand Party Set - Type A: 36 Fruit + 36 Fruit + 25 Cheese",
-          "Total Party Sets": 2
-        },
-        {
           "Item Name": "Party Set - Type A: 36 Fruit + 25 Cheese",
-          "Total Party Sets": 2
-        },
-        {
-          "Item Name": "Party Set - Type B: 36 Cheese + 25 Fruit",
           "Total Party Sets": 1
         },
         {
@@ -209,22 +197,13 @@
       "order_ids": [
         "#16111",
         "#16250",
-        "#16254",
-        "#16257",
         "#16258",
         "#16270",
         "#16273",
-        "#16285",
-        "#16299",
         "#16312",
-        "#16321",
-        "#16322",
         "#16332",
         "#16333",
-        "#16337",
-        "#16338",
         "#16340",
-        "#16342",
         "#16343",
         "#16345",
         "#16349",
@@ -237,8 +216,11 @@
         "#16367",
         "#16374",
         "#16375",
-        "#16376",
-        "#16378"
+        "#16378",
+        "#16380",
+        "#16381",
+        "#16384",
+        "#16386"
       ]
     },
     "07-03-2026": {
@@ -277,35 +259,35 @@
         },
         {
           "Flavor": "Passion Fruit",
-          "Total Qty": 40
+          "Total Qty": 48
         },
         {
           "Flavor": "Lemon Cheese",
-          "Total Qty": 40
+          "Total Qty": 48
         },
         {
           "Flavor": "Matcha",
-          "Total Qty": 48
+          "Total Qty": 56
         },
         {
           "Flavor": "Earl Grey",
-          "Total Qty": 48
+          "Total Qty": 56
         },
         {
           "Flavor": "Strawberry Cheesecake",
-          "Total Qty": 40
+          "Total Qty": 48
         },
         {
           "Flavor": "Blueberry Almond",
-          "Total Qty": 40
+          "Total Qty": 48
         },
         {
           "Flavor": "Chocolate Hazelnut",
-          "Total Qty": 40
+          "Total Qty": 48
         },
         {
           "Flavor": "Chocolate Pistachio",
-          "Total Qty": 40
+          "Total Qty": 48
         },
         {
           "Flavor": "Mixed Berries Almond Tart 7\" / Candle & Knife",
@@ -327,7 +309,7 @@
         },
         {
           "Category": "Cheese (Lemon & Strawberry)",
-          "Total": 80.0
+          "Total": 96.0
         },
         {
           "Category": "Cheese (Apple Crumble)",
@@ -335,11 +317,11 @@
         },
         {
           "Category": "Total Cheese Tarts",
-          "Total": 300.0
+          "Total": 316.0
         },
         {
           "Category": "Total No. of Premium",
-          "Total": 336.0
+          "Total": 400.0
         },
         {
           "Category": "Total No. of Christmas",
@@ -347,11 +329,11 @@
         },
         {
           "Category": "Total Tart Shells Required",
-          "Total": 1248.0
+          "Total": 1312.0
         },
         {
           "Category": "Approx Butter Required (kg)",
-          "Total": 17.829
+          "Total": 18.743
         }
       ],
       "box_summary": [
@@ -389,19 +371,19 @@
         },
         {
           "Item Name": "Chocolate Bliss",
-          "Total Boxes": 5
+          "Total Boxes": 6
         },
         {
           "Item Name": "Sweet Berry Duo",
-          "Total Boxes": 5
+          "Total Boxes": 6
         },
         {
           "Item Name": "The Tropical",
-          "Total Boxes": 5
+          "Total Boxes": 6
         },
         {
           "Item Name": "Tea par tea",
-          "Total Boxes": 6
+          "Total Boxes": 7
         },
         {
           "Item Name": "Chinese New Year Tarts - 25pcs",
@@ -417,7 +399,7 @@
         },
         {
           "Item Name": "ALL",
-          "Total Boxes": 61
+          "Total Boxes": 65
         }
       ],
       "party_summary": [
@@ -431,7 +413,7 @@
         },
         {
           "Item Name": "Premium Party Set",
-          "Total Party Sets": 2
+          "Total Party Sets": 3
         }
       ],
       "order_ids": [
@@ -462,102 +444,43 @@
         "#16368",
         "#16369",
         "#16372",
-        "#16377"
-      ]
-    },
-    "11-03-2026": {
-      "production_summary": [
-        {
-          "Flavor": "Blueberry Cheese",
-          "Total Qty": 16
-        }
-      ],
-      "total_summary": [
-        {
-          "Category": "Total Custard Tarts",
-          "Total": 0.0
-        },
-        {
-          "Category": "Cheese (Blueberry & Lotus)",
-          "Total": 16.0
-        },
-        {
-          "Category": "Cheese (Lemon & Strawberry)",
-          "Total": 0.0
-        },
-        {
-          "Category": "Cheese (Apple Crumble)",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total Cheese Tarts",
-          "Total": 16.0
-        },
-        {
-          "Category": "Total No. of Premium",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total No. of Christmas",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total Tart Shells Required",
-          "Total": 16.0
-        },
-        {
-          "Category": "Approx Butter Required (kg)",
-          "Total": 0.229
-        }
-      ],
-      "box_summary": [
-        {
-          "Item Name": "Cheese Tarts - 16pcs / Blueberry Cheese only",
-          "Total Boxes": 1
-        },
-        {
-          "Item Name": "ALL",
-          "Total Boxes": 1
-        }
-      ],
-      "party_summary": [],
-      "order_ids": [
-        "#16373"
+        "#16377",
+        "#16385"
       ]
     },
     "08-03-2026": {
       "production_summary": [
         {
           "Flavor": "Strawberry",
-          "Total Qty": 46
+          "Total Qty": 52
         },
         {
           "Flavor": "Kiwi",
-          "Total Qty": 46
+          "Total Qty": 52
         },
         {
           "Flavor": "Lychee",
-          "Total Qty": 25
+          "Total Qty": 31
         },
         {
           "Flavor": "Mango",
-          "Total Qty": 46
+          "Total Qty": 52
         },
         {
           "Flavor": "Blueberry",
-          "Total Qty": 17
+          "Total Qty": 23
         },
         {
           "Flavor": "Peach",
-          "Total Qty": 18
+          "Total Qty": 24
         },
         {
           "Flavor": "Blueberry Cheese",
-          "Total Qty": 29
+          "Total Qty": 42
         },
         {
           "Flavor": "Lotus Biscoff Cheese",
-          "Total Qty": 29
+          "Total Qty": 41
         },
         {
           "Flavor": "Passion Fruit",
@@ -568,8 +491,16 @@
           "Total Qty": 8
         },
         {
+          "Flavor": "Chocolate Hazelnut",
+          "Total Qty": 8
+        },
+        {
+          "Flavor": "Chocolate Pistachio",
+          "Total Qty": 8
+        },
+        {
           "Flavor": "Musang King Tart (3pcs)",
-          "Total Qty": 2
+          "Total Qty": 4
         },
         {
           "Flavor": "Mixed Berries Almond Tart 7\" / Candle & Knife",
@@ -579,11 +510,11 @@
       "total_summary": [
         {
           "Category": "Total Custard Tarts",
-          "Total": 198.0
+          "Total": 234.0
         },
         {
           "Category": "Cheese (Blueberry & Lotus)",
-          "Total": 58.0
+          "Total": 83.0
         },
         {
           "Category": "Cheese (Lemon & Strawberry)",
@@ -595,11 +526,11 @@
         },
         {
           "Category": "Total Cheese Tarts",
-          "Total": 66.0
+          "Total": 91.0
         },
         {
           "Category": "Total No. of Premium",
-          "Total": 16.0
+          "Total": 32.0
         },
         {
           "Category": "Total No. of Christmas",
@@ -607,11 +538,11 @@
         },
         {
           "Category": "Total Tart Shells Required",
-          "Total": 272.0
+          "Total": 349.0
         },
         {
           "Category": "Approx Butter Required (kg)",
-          "Total": 3.886
+          "Total": 4.986
         }
       ],
       "box_summary": [
@@ -628,6 +559,10 @@
           "Total Boxes": 1
         },
         {
+          "Item Name": "Cheese Tarts - 25pcs",
+          "Total Boxes": 1
+        },
+        {
           "Item Name": "Fruit Tarts - 16pcs",
           "Total Boxes": 2
         },
@@ -637,7 +572,11 @@
         },
         {
           "Item Name": "Fruit Tarts - 36pcs",
-          "Total Boxes": 2
+          "Total Boxes": 3
+        },
+        {
+          "Item Name": "Chocolate Bliss",
+          "Total Boxes": 1
         },
         {
           "Item Name": "The Tropical",
@@ -649,14 +588,19 @@
         },
         {
           "Item Name": "Musang King Tart (3pcs)",
-          "Total Boxes": 2
+          "Total Boxes": 4
         },
         {
           "Item Name": "ALL",
-          "Total Boxes": 14
+          "Total Boxes": 19
         }
       ],
-      "party_summary": [],
+      "party_summary": [
+        {
+          "Item Name": "Party Set - Type A: 36 Fruit + 25 Cheese",
+          "Total Party Sets": 1
+        }
+      ],
       "order_ids": [
         "#16249",
         "#16256",
@@ -666,7 +610,182 @@
         "#16351",
         "#16352",
         "#16365",
-        "#16371"
+        "#16371",
+        "#16383"
+      ]
+    },
+    "11-03-2026": {
+      "production_summary": [
+        {
+          "Flavor": "Blueberry Cheese",
+          "Total Qty": 16
+        },
+        {
+          "Flavor": "Matcha",
+          "Total Qty": 8
+        },
+        {
+          "Flavor": "Earl Grey",
+          "Total Qty": 8
+        },
+        {
+          "Flavor": "Strawberry Cheesecake",
+          "Total Qty": 8
+        },
+        {
+          "Flavor": "Blueberry Almond",
+          "Total Qty": 8
+        }
+      ],
+      "total_summary": [
+        {
+          "Category": "Total Custard Tarts",
+          "Total": 0.0
+        },
+        {
+          "Category": "Cheese (Blueberry & Lotus)",
+          "Total": 16.0
+        },
+        {
+          "Category": "Cheese (Lemon & Strawberry)",
+          "Total": 8.0
+        },
+        {
+          "Category": "Cheese (Apple Crumble)",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total Cheese Tarts",
+          "Total": 24.0
+        },
+        {
+          "Category": "Total No. of Premium",
+          "Total": 32.0
+        },
+        {
+          "Category": "Total No. of Christmas",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total Tart Shells Required",
+          "Total": 48.0
+        },
+        {
+          "Category": "Approx Butter Required (kg)",
+          "Total": 0.686
+        }
+      ],
+      "box_summary": [
+        {
+          "Item Name": "Cheese Tarts - 16pcs / Blueberry Cheese only",
+          "Total Boxes": 1
+        },
+        {
+          "Item Name": "Sweet Berry Duo",
+          "Total Boxes": 1
+        },
+        {
+          "Item Name": "Tea par tea",
+          "Total Boxes": 1
+        },
+        {
+          "Item Name": "ALL",
+          "Total Boxes": 3
+        }
+      ],
+      "party_summary": [],
+      "order_ids": [
+        "#16373",
+        "#16382"
+      ]
+    },
+    "12-03-2026": {
+      "production_summary": [
+        {
+          "Flavor": "Strawberry",
+          "Total Qty": 9
+        },
+        {
+          "Flavor": "Kiwi",
+          "Total Qty": 9
+        },
+        {
+          "Flavor": "Lychee",
+          "Total Qty": 9
+        },
+        {
+          "Flavor": "Mango",
+          "Total Qty": 9
+        },
+        {
+          "Flavor": "Blueberry",
+          "Total Qty": 5
+        },
+        {
+          "Flavor": "Peach",
+          "Total Qty": 0
+        }
+      ],
+      "total_summary": [
+        {
+          "Category": "Total Custard Tarts",
+          "Total": 41.0
+        },
+        {
+          "Category": "Cheese (Blueberry & Lotus)",
+          "Total": 0.0
+        },
+        {
+          "Category": "Cheese (Lemon & Strawberry)",
+          "Total": 0.0
+        },
+        {
+          "Category": "Cheese (Apple Crumble)",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total Cheese Tarts",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total No. of Premium",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total No. of Christmas",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total Tart Shells Required",
+          "Total": 41.0
+        },
+        {
+          "Category": "Approx Butter Required (kg)",
+          "Total": 0.586
+        }
+      ],
+      "box_summary": [
+        {
+          "Item Name": "Fruit Tarts - 16pcs",
+          "Total Boxes": 1
+        },
+        {
+          "Item Name": "Fruit Tarts - 25pcs",
+          "Total Boxes": 1
+        },
+        {
+          "Item Name": "Bulk Premium (200pcs)",
+          "Total Boxes": 200
+        },
+        {
+          "Item Name": "ALL",
+          "Total Boxes": 202
+        }
+      ],
+      "party_summary": [],
+      "order_ids": [
+        "#16196",
+        "#16379"
       ]
     },
     "13-03-2026": {
@@ -1382,90 +1501,6 @@
         "#16195",
         "#16203",
         "#16228"
-      ]
-    },
-    "12-03-2026": {
-      "production_summary": [
-        {
-          "Flavor": "Strawberry",
-          "Total Qty": 9
-        },
-        {
-          "Flavor": "Kiwi",
-          "Total Qty": 9
-        },
-        {
-          "Flavor": "Lychee",
-          "Total Qty": 9
-        },
-        {
-          "Flavor": "Mango",
-          "Total Qty": 9
-        },
-        {
-          "Flavor": "Blueberry",
-          "Total Qty": 5
-        },
-        {
-          "Flavor": "Peach",
-          "Total Qty": 0
-        }
-      ],
-      "total_summary": [
-        {
-          "Category": "Total Custard Tarts",
-          "Total": 41.0
-        },
-        {
-          "Category": "Cheese (Blueberry & Lotus)",
-          "Total": 0.0
-        },
-        {
-          "Category": "Cheese (Lemon & Strawberry)",
-          "Total": 0.0
-        },
-        {
-          "Category": "Cheese (Apple Crumble)",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total Cheese Tarts",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total No. of Premium",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total No. of Christmas",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total Tart Shells Required",
-          "Total": 41.0
-        },
-        {
-          "Category": "Approx Butter Required (kg)",
-          "Total": 0.586
-        }
-      ],
-      "box_summary": [
-        {
-          "Item Name": "Fruit Tarts - 16pcs",
-          "Total Boxes": 1
-        },
-        {
-          "Item Name": "Fruit Tarts - 25pcs",
-          "Total Boxes": 1
-        },
-        {
-          "Item Name": "ALL",
-          "Total Boxes": 2
-        }
-      ],
-      "party_summary": [],
-      "order_ids": [
-        "#16196"
       ]
     },
     "12-02-2026": {
