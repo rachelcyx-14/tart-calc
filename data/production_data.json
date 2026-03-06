@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-03-06 11:24:48",
+  "last_updated": "2026-03-06 11:40:28",
   "datasets": {
+    "11-03-2026": {
+      "production_summary": [
+        {
+          "Flavor": "Blueberry Cheese",
+          "Total Qty": 16
+        }
+      ],
+      "total_summary": [
+        {
+          "Category": "Total Custard Tarts",
+          "Total": 0.0
+        },
+        {
+          "Category": "Cheese (Blueberry & Lotus)",
+          "Total": 16.0
+        },
+        {
+          "Category": "Cheese (Lemon & Strawberry)",
+          "Total": 0.0
+        },
+        {
+          "Category": "Cheese (Apple Crumble)",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total Cheese Tarts",
+          "Total": 16.0
+        },
+        {
+          "Category": "Total No. of Premium",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total No. of Christmas",
+          "Total": 0.0
+        },
+        {
+          "Category": "Total Tart Shells Required",
+          "Total": 16.0
+        },
+        {
+          "Category": "Approx Butter Required (kg)",
+          "Total": 0.229
+        }
+      ],
+      "box_summary": [
+        {
+          "Item Name": "Cheese Tarts - 16pcs / Blueberry Cheese only",
+          "Total Boxes": 1
+        },
+        {
+          "Item Name": "ALL",
+          "Total Boxes": 1
+        }
+      ],
+      "party_summary": [],
+      "order_ids": [
+        "#16373"
+      ]
+    },
     "07-03-2026": {
       "production_summary": [
         {
@@ -505,35 +565,35 @@
         },
         {
           "Flavor": "Passion Fruit",
-          "Total Qty": 56
+          "Total Qty": 48
         },
         {
           "Flavor": "Lemon Cheese",
-          "Total Qty": 56
+          "Total Qty": 48
         },
         {
           "Flavor": "Matcha",
-          "Total Qty": 104
+          "Total Qty": 88
         },
         {
           "Flavor": "Earl Grey",
-          "Total Qty": 104
+          "Total Qty": 88
         },
         {
           "Flavor": "Strawberry Cheesecake",
-          "Total Qty": 64
+          "Total Qty": 48
         },
         {
           "Flavor": "Blueberry Almond",
-          "Total Qty": 64
+          "Total Qty": 48
         },
         {
           "Flavor": "Chocolate Hazelnut",
-          "Total Qty": 40
+          "Total Qty": 32
         },
         {
           "Flavor": "Chocolate Pistachio",
-          "Total Qty": 40
+          "Total Qty": 32
         },
         {
           "Flavor": "Musang King Tart (3pcs)",
@@ -555,7 +615,7 @@
         },
         {
           "Category": "Cheese (Lemon & Strawberry)",
-          "Total": 120.0
+          "Total": 96.0
         },
         {
           "Category": "Cheese (Apple Crumble)",
@@ -563,11 +623,11 @@
         },
         {
           "Category": "Total Cheese Tarts",
-          "Total": 429.0
+          "Total": 405.0
         },
         {
           "Category": "Total No. of Premium",
-          "Total": 528.0
+          "Total": 432.0
         },
         {
           "Category": "Total No. of Christmas",
@@ -575,11 +635,11 @@
         },
         {
           "Category": "Total Tart Shells Required",
-          "Total": 1370.0
+          "Total": 1274.0
         },
         {
           "Category": "Approx Butter Required (kg)",
-          "Total": 19.571
+          "Total": 18.2
         }
       ],
       "box_summary": [
@@ -621,23 +681,19 @@
         },
         {
           "Item Name": "Chocolate Bliss",
-          "Total Boxes": 5
+          "Total Boxes": 4
         },
         {
           "Item Name": "Sweet Berry Duo",
-          "Total Boxes": 8
+          "Total Boxes": 6
         },
         {
           "Item Name": "The Tropical",
-          "Total Boxes": 7
+          "Total Boxes": 6
         },
         {
           "Item Name": "Tea par tea",
-          "Total Boxes": 13
-        },
-        {
-          "Item Name": "Candles - Gold (6pcs)",
-          "Total Boxes": 1
+          "Total Boxes": 11
         },
         {
           "Item Name": "Candles - Silver (6pcs)",
@@ -657,7 +713,7 @@
         },
         {
           "Item Name": "ALL",
-          "Total Boxes": 73
+          "Total Boxes": 66
         }
       ],
       "party_summary": [
@@ -675,7 +731,7 @@
         },
         {
           "Item Name": "Premium Party Set",
-          "Total Party Sets": 4
+          "Total Party Sets": 3
         }
       ],
       "order_ids": [
@@ -698,12 +754,10 @@
         "#16337",
         "#16338",
         "#16340",
-        "#16341",
         "#16342",
         "#16343",
         "#16345",
         "#16347",
-        "#16348",
         "#16349",
         "#16355",
         "#16356",
