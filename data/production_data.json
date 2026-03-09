@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-03-09 15:31:29",
+  "last_updated": "2026-03-09 16:45:50",
   "datasets": {
     "10-03-2026": {
       "production_summary": [
         {
           "Flavor": "Strawberry",
-          "Total Qty": 38
+          "Total Qty": 43
         },
         {
           "Flavor": "Kiwi",
-          "Total Qty": 38
+          "Total Qty": 43
         },
         {
           "Flavor": "Lychee",
@@ -17,7 +17,7 @@
         },
         {
           "Flavor": "Mango",
-          "Total Qty": 38
+          "Total Qty": 43
         },
         {
           "Flavor": "Blueberry",
@@ -29,11 +29,11 @@
         },
         {
           "Flavor": "Blueberry Cheese",
-          "Total Qty": 130
+          "Total Qty": 135
         },
         {
           "Flavor": "Lotus Biscoff Cheese",
-          "Total Qty": 64
+          "Total Qty": 69
         },
         {
           "Flavor": "Passion Fruit",
@@ -71,11 +71,11 @@
       "total_summary": [
         {
           "Category": "Total Custard Tarts",
-          "Total": 198.0
+          "Total": 213.0
         },
         {
           "Category": "Cheese (Blueberry & Lotus)",
-          "Total": 194.0
+          "Total": 204.0
         },
         {
           "Category": "Cheese (Lemon & Strawberry)",
@@ -87,7 +87,7 @@
         },
         {
           "Category": "Total Cheese Tarts",
-          "Total": 210.0
+          "Total": 220.0
         },
         {
           "Category": "Total No. of Premium",
@@ -99,14 +99,18 @@
         },
         {
           "Category": "Total Tart Shells Required",
-          "Total": 520.0
+          "Total": 545.0
         },
         {
           "Category": "Approx Butter Required (kg)",
-          "Total": 7.429
+          "Total": 7.786
         }
       ],
       "box_summary": [
+        {
+          "Item Name": "Assorted Tarts - 25pcs",
+          "Total Boxes": 1
+        },
         {
           "Item Name": "Assorted Tarts - 36pcs",
           "Total Boxes": 1
@@ -165,7 +169,7 @@
         },
         {
           "Item Name": "ALL",
-          "Total Boxes": 44
+          "Total Boxes": 45
         }
       ],
       "party_summary": [
@@ -193,7 +197,8 @@
         "#16451",
         "#16452",
         "#16455",
-        "#16457"
+        "#16457",
+        "#16458"
       ]
     },
     "22-03-2026": {
