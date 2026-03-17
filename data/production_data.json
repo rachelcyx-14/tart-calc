@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 14:45:36",
+  "last_updated": "2026-03-17 15:04:38",
   "datasets": {
     "18-03-2026": {
       "production_summary": [
@@ -149,7 +149,7 @@
         },
         {
           "Item Name": "2026 Raya Gift Set - 1 set",
-          "Total Boxes": 13
+          "Total Boxes": 14
         },
         {
           "Item Name": "2026 Raya Gift Set - 3 sets",
@@ -165,7 +165,7 @@
         },
         {
           "Item Name": "ALL",
-          "Total Boxes": 42
+          "Total Boxes": 43
         }
       ],
       "party_summary": [
@@ -195,7 +195,8 @@
         "#16675",
         "#16677",
         "#16678",
-        "#16679"
+        "#16679",
+        "#16680"
       ]
     },
     "28-03-2026": {
@@ -716,23 +717,23 @@
       "production_summary": [
         {
           "Flavor": "Strawberry",
-          "Total Qty": 37
+          "Total Qty": 32
         },
         {
           "Flavor": "Kiwi",
-          "Total Qty": 37
+          "Total Qty": 32
         },
         {
           "Flavor": "Lychee",
-          "Total Qty": 32
+          "Total Qty": 27
         },
         {
           "Flavor": "Mango",
-          "Total Qty": 37
+          "Total Qty": 32
         },
         {
           "Flavor": "Blueberry",
-          "Total Qty": 32
+          "Total Qty": 27
         },
         {
           "Flavor": "Peach",
@@ -770,7 +771,7 @@
       "total_summary": [
         {
           "Category": "Total Custard Tarts",
-          "Total": 187.0
+          "Total": 162.0
         },
         {
           "Category": "Cheese (Blueberry & Lotus)",
@@ -798,11 +799,11 @@
         },
         {
           "Category": "Total Tart Shells Required",
-          "Total": 270.0
+          "Total": 245.0
         },
         {
           "Category": "Approx Butter Required (kg)",
-          "Total": 3.857
+          "Total": 3.5
         }
       ],
       "box_summary": [
@@ -816,7 +817,7 @@
         },
         {
           "Item Name": "Fruit Tarts - 25pcs",
-          "Total Boxes": 4
+          "Total Boxes": 3
         },
         {
           "Item Name": "Fruit Tarts - 36pcs",
@@ -852,7 +853,7 @@
         },
         {
           "Item Name": "ALL",
-          "Total Boxes": 17
+          "Total Boxes": 16
         }
       ],
       "party_summary": [
@@ -867,7 +868,6 @@
         "#16640",
         "#16645",
         "#16646",
-        "#16654",
         "#16661",
         "#16662",
         "#16666"
