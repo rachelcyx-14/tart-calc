@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 07:33:26",
+  "last_updated": "2026-03-19 08:51:59",
   "datasets": {
     "22-03-2026": {
       "production_summary": [
@@ -164,12 +164,20 @@
           "Total Boxes": 1
         },
         {
+          "Item Name": "Matcha ganache(B2B)",
+          "Total Boxes": 25
+        },
+        {
+          "Item Name": "Mini fruit tarts(B2B)",
+          "Total Boxes": 25
+        },
+        {
           "Item Name": "Mixed Berries Almond Tart - 9\" / No Candle & Knife",
           "Total Boxes": 1
         },
         {
           "Item Name": "ALL",
-          "Total Boxes": 28
+          "Total Boxes": 78
         }
       ],
       "party_summary": [
@@ -191,6 +199,7 @@
         "#16510",
         "#16516",
         "#16529",
+        "#16568",
         "#16647",
         "#16686",
         "#16695",
@@ -828,65 +837,6 @@
       "party_summary": [],
       "order_ids": [
         "#16672"
-      ]
-    },
-    "03-03-2026": {
-      "production_summary": [],
-      "total_summary": [
-        {
-          "Category": "Total Custard Tarts",
-          "Total": 0.0
-        },
-        {
-          "Category": "Cheese (Blueberry & Lotus)",
-          "Total": 0.0
-        },
-        {
-          "Category": "Cheese (Lemon & Strawberry)",
-          "Total": 0.0
-        },
-        {
-          "Category": "Cheese (Apple Crumble)",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total Cheese Tarts",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total No. of Premium",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total No. of Christmas",
-          "Total": 0.0
-        },
-        {
-          "Category": "Total Tart Shells Required",
-          "Total": 0.0
-        },
-        {
-          "Category": "Approx Butter Required (kg)",
-          "Total": 0.0
-        }
-      ],
-      "box_summary": [
-        {
-          "Item Name": "Matcha ganache(B2B)",
-          "Total Boxes": 25
-        },
-        {
-          "Item Name": "Mini fruit tarts(B2B)",
-          "Total Boxes": 25
-        },
-        {
-          "Item Name": "ALL",
-          "Total Boxes": 50
-        }
-      ],
-      "party_summary": [],
-      "order_ids": [
-        "#16568"
       ]
     },
     "12-04-2026": {
